@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+<!DOCTYPE html>
+<head>
+	<title>CSS Practice</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+h1 {justify-content: center;}
+h2 {}
+p  {color: red;}
+p2 {color: blue;}
+p3 {color: green;}
+p4 {font-size: 200%;}
+p5 {font-size: 75%;}
+p6 {justify-content: center;}
+p7 {font-style: BOLD;}
+p8 {font-family: calibri;}
+p9 {color: orange;}
+
+
+
+
+
+
+
+
+
+
+
